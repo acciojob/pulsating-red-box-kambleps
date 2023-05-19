@@ -1,1 +1,9 @@
 /*  your css code here. If applicable */
+.box{
+	width:100px;
+	height:100px;
+	background:red;
+	animation:pulse 1s infinite;
+	animation-timing-function:ease-in-out;
+	animation-play-state:running;
+}
